@@ -33,8 +33,8 @@ Apply the Laplacian operator to compute the second-order derivative, sharply hig
 
 ### Step 4: Implement Canny Edge Detector
 
-Apply the Canny Edge Detector. This process involves smoothing, gradient finding, Non-Maximum Suppression, and Hysteresis Thresholding. [Image showing the steps of the Canny Edge Detection algorithm]
+Apply the Canny Edge Detector. This process involves smoothing, gradient finding, Non-Maximum Suppression, and Hysteresis Thresholding. 
 
-Step 5: Display and Compare Results
+### Step 5: Display and Compare Results
 
 Display the original grayscale image and the results from the Sobel, Laplacian, and Canny operators for visual comparison.
